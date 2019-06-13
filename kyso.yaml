@@ -1,7 +1,6 @@
 title: "A football addiction confession and club fan catchments
 "
 description: "Using Voronoi polygons to calculate fan catchments for 89 English football clubs"
-branch: staging
 main: A football addiction confession and english club fan catchments.ipynb
 tags:
   - EPL
